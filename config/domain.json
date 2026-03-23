@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updated_at": "2024-03-24T12:00:00Z",
+  "api": {
+    "primary": "https://www.paopaosu.top",
+    "fallbacks": [
+      "https://www2.paopaosu.top"
+    ]
+  },
+  "purchase_url": "https://shop.paopaosu.top/buy",
+  "announce": "近期网络波动，节点已更新"
+}
